@@ -1,4 +1,4 @@
-# 📱 Circle Network (Contact App)
+# 📱 Circle Network
 
 ## 💻 Sobre o Projeto
 Uma aplicação web completa para gestão de contatos (CRUD) integrada com banco de dados na nuvem. O projeto oferece uma experiência de usuário fluida e em tempo real, utilizando as melhores práticas do ecossistema React para validação de formulários, renderização de modais e feedback visual.
@@ -31,7 +31,7 @@ Uma aplicação web completa para gestão de contatos (CRUD) integrada com banco
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/VitorOnRails/contact-app.git
+git clone https://github.com/VitorOnRails/circle-network.git
 ```
 
 2. Acesse a pasta do projeto:
